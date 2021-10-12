@@ -1,6 +1,10 @@
 ### Halo!
 
-Perkenalkan saya Jesslyn Brigitta. Saya lulusan S1 Matematika ITB tahun 2021. Jika tertarik, silakan kunjungi akun [LinkedIn](https://www.linkedin.com/in/jesslyn-brigitta-8aa64b1a0/) saya.
+Perkenalkan saya Jesslyn Brigitta. Saya lulusan S1 Matematika ITB tahun 2021. Jika tertarik, silakan kunjungi akun [LinkedIn](https://www.linkedin.com/in/jesslyn-brigitta-8aa64b1a0/) saya.  
+
+Saat ini saya memiliki dua repositories:
+* Rock-Paper-Scissor: Berisi projek klasifikasi gambar menggunakan bahasa pemrograman Python.
+* HeartFailure: Berisi latihan visualisasi data menggunakan Python dan Excel, serta latihan memprediksi kematian menggunakan Logistic Regression  
 
 <p align="left">
 <a href="https://github.com/jesslynb20">
